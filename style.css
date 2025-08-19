@@ -1,0 +1,27 @@
+body {
+    background: #000000;
+    font-family: monospace;
+        
+}
+
+
+.user {
+    padding-left: 35%;
+    color: rgb(59, 187, 187);
+    font-weight: 900;
+    font-size: 16px;
+}
+
+.arch-logo {
+    color: rgb(59, 187, 187);
+    font-weight: 900;
+    padding-left: 1%;
+    font-size: 16px;
+    line-height: 1;
+}
+
+.info {
+    display: inline-block;
+    color: #858383;
+    font-weight: 500;
+}
