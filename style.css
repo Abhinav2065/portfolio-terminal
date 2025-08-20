@@ -22,6 +22,42 @@ body {
 
 .info {
     display: inline-block;
-    color: #858383;
+    color: #a8a6a6;
     font-weight: 500;
 }
+
+.command {
+    background-color: #000000;
+    color: white;
+    border: none;
+    width: 100%;
+    font-family: monospace;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.command:focus {
+    border:none;
+    outline: none;
+}
+
+.cli{
+    color: #a8a6a6;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+}
+
+.display {
+    color:#a8a6a6;
+    font-size: 16px;
+}
+
+
+
+.aqua {
+    color: rgb(59, 187, 187);
+    font-weight: 800;
+}
+
+
